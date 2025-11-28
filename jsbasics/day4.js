@@ -55,4 +55,4 @@ const multiply = (arr1, arr2) => {
   return result;
 };
 
-console.log(multiply(arr1, arr2));
+// console.log(multiply(arr1, arr2));
